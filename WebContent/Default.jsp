@@ -11,6 +11,6 @@
 </head>
 <body>
 	<h1 style="text-align: center;">Merhaba Dünya</h1>
-
+<c:out value=""></c:out>
 </body>
 </html>
