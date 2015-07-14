@@ -7,6 +7,6 @@
 <title>Merhaba Dünya</title>
 </head>
 <body>
-<h1 style="text-align: center;">Merhaba Dünya</h1>
+<h1 style="text-align: left;">Merhaba Dünya</h1>
 </body>
 </html>
