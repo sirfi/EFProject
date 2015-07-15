@@ -7,10 +7,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Merhaba Dünya</title>
+<title>EFProject</title>
 </head>
 <body>
-	<h1 style="text-align: center;">Merhaba Dünya</h1>
-<c:out value=""></c:out>
+	<form class="cmxform" name="form01" id="form01" method="post">
+		<table cellspacing="6">
+			<tr>
+			<td><c:out value="Merhaba Dünya"/></td>		
+			</tr>
+		</table>
+	</form>
+
 </body>
 </html>
